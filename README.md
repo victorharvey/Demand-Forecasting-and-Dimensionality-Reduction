@@ -10,24 +10,29 @@
 ### Project charter 
 *An overview of the project, key elements and expectations.*
 
+#### Goal
+A master's thesis on the reducing the curse of dimensionality for accurate demand forecasting.
+
+#### Summary
 The project is part of my final project in my Master's in Data Science. It is using all elements of data science to offer a valuable contribution to society.
 
-### Data
+#### Data
 M5 Demand Forecasting Chellenge
 "How much camping gear will one store sell each month in a year? To the uninitiated, calculating sales at this level may seem as difficult as predicting the weather. Both types of forecasting rely on science and historical data. While a wrong weather forecast may result in you carrying around an umbrella on a sunny day, inaccurate business forecasts could result in actual or opportunity losses." To download data [click here](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data).
 
-### Key elements:
+#### Key elements:
 - Data Exploration
 - Literature review
 - Dimensionality Reduction
 
-### Expectations:
+#### Expectations:
 - Final Report
 - Publishable paper
 
 ### Statement of work
 *Identifies the work that is included in the project and the pricing that was quoted initially.*
 
+#### Tasks
 - Data Ingestion.                 5 Hours
 - Data Exploration.               10 Hours
 - Data Visualisation               5 Hours
@@ -37,7 +42,7 @@ M5 Demand Forecasting Chellenge
 - Machine Learning                 5 Hours
 - Dimensionality Reduction        10 Hours
 
-### Deliverables:
+#### Deliverables:
 - Final Report                    20 Hours
 - Publishable paper               20 Hours
 
