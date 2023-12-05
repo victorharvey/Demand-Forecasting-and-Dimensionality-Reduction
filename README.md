@@ -12,6 +12,10 @@
 
 The project is part of my final project in my Master's in Data Science. It is using all elements of data science to offer a valuable contribution to society.
 
+### Data
+M5 Demand Forecasting Chellenge
+"How much camping gear will one store sell each month in a year? To the uninitiated, calculating sales at this level may seem as difficult as predicting the weather. Both types of forecasting rely on science and historical data. While a wrong weather forecast may result in you carrying around an umbrella on a sunny day, inaccurate business forecasts could result in actual or opportunity losses." To download data [click here](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data).
+
 ### Key elements:
 - Data Exploration
 - Literature review
