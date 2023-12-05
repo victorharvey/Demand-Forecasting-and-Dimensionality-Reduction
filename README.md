@@ -1,13 +1,9 @@
 
-**Project Name:** Curse of dimensionality reduction in Demand Forecasting.
-
-**Description:** The aim of the project is to find real applicable models to reduce dimensionality and increase forecast accuracy
-
-**Owner:** Victor Harvey
-
-**Status:** Active
-
-**Updated:** December 2023
+**Project Name:** Curse of dimensionality reduction in Demand Forecasting. \
+**Description:** The aim of the project is to find real applicable models to reduce dimensionality and increase forecast accuracy \
+**Owner:** Victor Harvey \
+**Status:** Active \
+**Updated:** December 2023 \
 
 
 ## Description
