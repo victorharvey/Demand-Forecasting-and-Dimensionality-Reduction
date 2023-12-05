@@ -8,7 +8,7 @@
 
 ## Description
 ### Project charter 
-*An overview of the project, key elements and expectations.
+*An overview of the project, key elements and expectations.*
 
 The project is part of my final project in my Master's in Data Science. It is using all elements of data science to offer a valuable contribution to society.
 
@@ -22,7 +22,7 @@ The project is part of my final project in my Master's in Data Science. It is us
 - Publishable paper
 
 ### Statement of work
-*Identifies the work that is included in the project and the pricing that was quoted initially.
+*Identifies the work that is included in the project and the pricing that was quoted initially.*
 
 - Data Ingestion.                 5 Hours
 - Data Exploration.               10 Hours
@@ -38,7 +38,7 @@ The project is part of my final project in my Master's in Data Science. It is us
 - Publishable paper               20 Hours
 
 ### Risk management plan
-*Potential risks, their likelihood, and how you plan to mitigate them if they become realised. 
+*Potential risks, their likelihood, and how you plan to mitigate them if they become realised.* 
 
 **Identified Risk 1:** This is an interesting problem that has no value.
 **Likelihood:** High
@@ -49,17 +49,17 @@ The project is part of my final project in my Master's in Data Science. It is us
 **Mitigation:** Seek feedback from university on progress made
 
 ### Schedule
-*Identifies the planned schedule as well as any changes through out the project lifecycle. 
+*Identifies the planned schedule as well as any changes through out the project lifecycle.* 
 
 
 ### Budget
-*Identifies the planned budget as well as any over and under runs. 
+*Identifies the planned budget as well as any over and under runs.* 
 
 Total hours calculated           130. 
 Total hours budget               150.
 
 ### Communication plan
-Identifies how often, what type of communication method, and what information your stakeholders needs to know
+*Identifies how often, what type of communication method, and what information your stakeholders needs to know*
 
 University of London - Once a month via email
 Public - once a week via blog
@@ -70,7 +70,7 @@ Shared folder
 https://github.com/victorharvey
 
 ### RACI chart
-*Identifies who is responsible, accountable, consulted and informed within the project.
+*Identifies who is responsible, accountable, consulted and informed within the project.*
 
 Responsible: Victor Harvey
 Accountable: Victor Harvey
